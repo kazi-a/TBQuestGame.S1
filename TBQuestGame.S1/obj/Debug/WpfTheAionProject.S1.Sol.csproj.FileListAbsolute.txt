@@ -1,0 +1,17 @@
+C:\Users\kazia\Desktop\WpfTheAionProject-master\WpfTheAionProject-master\WpfTheAionProject.S1.Sol\bin\Debug\WpfTheAionProject.S1.Sol.exe.config
+C:\Users\kazia\Desktop\WpfTheAionProject-master\WpfTheAionProject-master\WpfTheAionProject.S1.Sol\bin\Debug\WpfTheAionProject.S1.Sol.exe
+C:\Users\kazia\Desktop\WpfTheAionProject-master\WpfTheAionProject-master\WpfTheAionProject.S1.Sol\bin\Debug\WpfTheAionProject.S1.Sol.pdb
+C:\Users\kazia\Desktop\WpfTheAionProject-master\WpfTheAionProject-master\WpfTheAionProject.S1.Sol\obj\Debug\WpfTheAionProject.S1.Sol.csprojResolveAssemblyReference.cache
+C:\Users\kazia\Desktop\WpfTheAionProject-master\WpfTheAionProject-master\WpfTheAionProject.S1.Sol\obj\Debug\PresentationLayer\GameSessionView.g.cs
+C:\Users\kazia\Desktop\WpfTheAionProject-master\WpfTheAionProject-master\WpfTheAionProject.S1.Sol\obj\Debug\PresentationLayer\PlayerSetupView.g.cs
+C:\Users\kazia\Desktop\WpfTheAionProject-master\WpfTheAionProject-master\WpfTheAionProject.S1.Sol\obj\Debug\App.g.cs
+C:\Users\kazia\Desktop\WpfTheAionProject-master\WpfTheAionProject-master\WpfTheAionProject.S1.Sol\obj\Debug\WpfTheAionProject.S1.Sol_MarkupCompile.cache
+C:\Users\kazia\Desktop\WpfTheAionProject-master\WpfTheAionProject-master\WpfTheAionProject.S1.Sol\obj\Debug\WpfTheAionProject.S1.Sol_MarkupCompile.lref
+C:\Users\kazia\Desktop\WpfTheAionProject-master\WpfTheAionProject-master\WpfTheAionProject.S1.Sol\obj\Debug\PresentationLayer\GameSessionView.baml
+C:\Users\kazia\Desktop\WpfTheAionProject-master\WpfTheAionProject-master\WpfTheAionProject.S1.Sol\obj\Debug\PresentationLayer\PlayerSetupView.baml
+C:\Users\kazia\Desktop\WpfTheAionProject-master\WpfTheAionProject-master\WpfTheAionProject.S1.Sol\obj\Debug\WpfTheAionProject.S1.Sol.g.resources
+C:\Users\kazia\Desktop\WpfTheAionProject-master\WpfTheAionProject-master\WpfTheAionProject.S1.Sol\obj\Debug\WpfTheAionProject.Properties.Resources.resources
+C:\Users\kazia\Desktop\WpfTheAionProject-master\WpfTheAionProject-master\WpfTheAionProject.S1.Sol\obj\Debug\WpfTheAionProject.S1.Sol.csproj.GenerateResource.Cache
+C:\Users\kazia\Desktop\WpfTheAionProject-master\WpfTheAionProject-master\WpfTheAionProject.S1.Sol\obj\Debug\WpfTheAionProject.S1.Sol.csproj.CoreCompileInputs.cache
+C:\Users\kazia\Desktop\WpfTheAionProject-master\WpfTheAionProject-master\WpfTheAionProject.S1.Sol\obj\Debug\WpfTheAionProject.S1.Sol.exe
+C:\Users\kazia\Desktop\WpfTheAionProject-master\WpfTheAionProject-master\WpfTheAionProject.S1.Sol\obj\Debug\WpfTheAionProject.S1.Sol.pdb
